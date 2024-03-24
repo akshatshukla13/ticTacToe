@@ -69,34 +69,34 @@ function check() {
     res.innerText = "0 win";
   }
   if (a == "X" && d == "X" && g == "X") {
-    res.innerText = "0 win";
+    res.innerText = "X win";
   }
 
   if (b == "0" && e == "0" && h == "0") {
     res.innerText = "0 win";
   }
   if (b == "X" && e == "X" && h == "X") {
-    res.innerText = "0 win";
+    res.innerText = "X win";
   }
 
   if (c == "0" && f == "0" && i == "0") {
     res.innerText = "0 win";
   }
   if (c == "X" && f == "X" && i == "X") {
-    res.innerText = "0 win";
+    res.innerText = "X win";
   }
 
   if (a == "0" && e == "0" && i == "0") {
     res.innerText = "0 win";
   }
   if (a == "X" && e == "X" && i == "X") {
-    res.innerText = "0 win";
+    res.innerText = "X win";
   }
 
   if (c == "0" && e == "0" && g == "0") {
     res.innerText = "0 win";
   }
   if (c == "X" && e == "X" && g == "X") {
-    res.innerText = "0 win";
+    res.innerText = "X win";
   }
 }
